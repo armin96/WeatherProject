@@ -13,3 +13,25 @@ This app depends on WeatherAPI for live weather data.<br>
 • Temperature trend chart using matplotlib<br>
 • Add and remove favorite city<br>
 • Save favorite cities locally in a JSON file<br>
+
+This app uses for live weather data.  <br>
+https://www.weatherapi.com/ <br>
+
+
+API Key<br>
+
+WEATHER_API_KEY = "YOUR_API_KEY_HERE"<br>
+
+
+Installation
+
+Clone the repo and Install dependencies:
+```bash
+git clone https://github.com/armin96/WeatherProject.git
+
+cd WeatherProject
+
+pip install requests matplotlib
+
+python main.py
+
