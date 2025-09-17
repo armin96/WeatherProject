@@ -1,10 +1,10 @@
-SkyWeatherApp
-A simple Python + Tkinter based desktop application to check current weather and 3 days forecast.
-This app depends on WeatherAPI for live weather data. 
-Features
-• Search weather by city name
-• Show current temperature and conditions
-• 3 days forecast with max & min temperature
-• Temperature trend chart using matplotlib
-• Add and remove favorite city
-• Save favorite cities locally in a JSON file
+<b>SkyWeatherApp</b><br><br><br>
+A simple Python + Tkinter based desktop application to check current weather and 3 days forecast.<br>
+This app depends on WeatherAPI for live weather data.<br>
+<br>Features<br>
+• Search weather by city name<br>
+• Show current temperature and conditions<br>
+• 3 days forecast with max & min temperature<br>
+• Temperature trend chart using matplotlib<br>
+• Add and remove favorite city<br>
+• Save favorite cities locally in a JSON file<br>
